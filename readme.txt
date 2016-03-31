@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks a lot of changes.
-This is edited by master and dev2 branch.
+This is edited by master and dev branch.
 Creating a new branch is quick.
 How does git merge branches?
 分支策略
